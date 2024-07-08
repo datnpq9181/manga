@@ -23,8 +23,8 @@ const Footer = () => {
           chúng tôi sẽ xem xét và gỡ bỏ ngay lập tức.
         </p>
         <p style={{ textAlign: 'center' }}>
-          <Link to='/'>Truyenmoi.fun</Link> ©2024 - Contact me:{' '}
-          <a href='mailto:truyenmoi@proton.me'>truyenmoi@proton.me</a>
+          <Link to='/'>iutruyen.net</Link> ©2024 - Contact me:{' '}
+          <a href='mailto:contact@iutruyen.net'>contact@iutruyen.net</a>
         </p>
       </div>
     </footer>

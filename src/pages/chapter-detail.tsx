@@ -172,7 +172,7 @@ const ChapterDetail = (payload: {
       </Space.Compact>
       <div>
         <Watermark
-          content='Truyenmoi.fun'
+          content='iutruyen.net'
           inherit={false}
           style={{
             display: 'flex',

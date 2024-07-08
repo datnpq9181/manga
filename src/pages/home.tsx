@@ -12,7 +12,7 @@ const HomePage = () => {
   }
 
   useEffect(() => {
-    document.title = 'Truyenmoi.fun - Truyện mới cập nhật - Truyện Hay Online'
+    document.title = 'iutruyen.net - Truyện mới nhất - Truyện mới cập nhật mỗi ngày'
   }, [])
 
   return (
